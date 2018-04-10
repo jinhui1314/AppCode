@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:id="@+id/main"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@drawable/a1"
+              android:orientation="vertical">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="100dp"
+        android:text="一个故事"
+        android:textColor="@color/white"
+        android:textSize="49sp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="75dp"
+        android:layout_marginTop="50dp"
+        android:text="故事时刻在发生，属于你的，在你身边的，或许都值得分享。"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        />
+</LinearLayout>

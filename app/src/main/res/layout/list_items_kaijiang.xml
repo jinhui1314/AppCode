@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_my_story"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginLeft="10dp"
+    android:background="@drawable/list_item_pressed_select"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginLeft="10dp"
+
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="10dp"
+        android:layout_toLeftOf="@+id/tv_time"
+        android:maxLines="2"
+        android:text="14"
+        android:textColor="@color/colorBlack"
+        android:textSize="15sp"
+
+        />
+
+    <TextView
+        android:id="@+id/tv_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginBottom="4dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        android:text="7"
+        android:textColor="@color/text_description"
+        android:textSize="15sp"
+
+        />
+
+    <TextView
+        android:id="@+id/tv_num"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center_horizontal"
+        android:text="12345678"
+        android:textColor="@color/red"
+        android:layout_marginBottom="5dp"
+        android:textSize="20sp" />
+    <View
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="5dp"
+        android:background="@color/line2"
+        />
+
+</LinearLayout>

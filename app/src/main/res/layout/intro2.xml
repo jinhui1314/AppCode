@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main"
+    android:background="@drawable/a2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="100dp"
+        android:text="一份鼓励"
+        android:textColor="@color/white"
+        android:textSize="49sp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="75dp"
+        android:layout_marginTop="50dp"
+        android:text="邀请你身边有故事的人分享他的故事，你和他各得50元现金奖励。"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        />
+</LinearLayout>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red">#FF0000</color>
+
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="edit_story">#688DCD</color>
+
+    <color name="textColorBlack">#292929</color>
+    <color name="view_color">#66DEDEDE</color>
+    <color name="text_nums">#999999</color>
+
+    <color name="toobar_color">#FF8162</color>
+
+    <!--<color name="sharetex">#000000</color>-->
+
+    <color name="sharetex">#0098E4</color>
+    <color name="click_text">#FF8161</color>
+
+
+    <color name="colorBlack">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="text_username">#fc6a50</color>
+    <color name="text_shenhe">#76bb76</color>
+
+    <color name="text_title">#000000</color>
+    <color name="text_description">#6c6b6b</color>
+    <color name="text_favarite">#595968</color>
+    <color name="text_time">#bcbcbc</color>
+    <color name="text_pinlun">#bcbcbc</color>
+    <color name="draw_text_color">#ffffff</color>
+    <color name="draw_text_color_p">#AEAEb2</color>
+
+    <color name="text_color_name">#585A68</color>
+    <color name="text_color_num">#BCBCBC</color>
+
+    <color name="draw_bg_nom">#00000000</color>
+    <color name="draw_bg_press">#33000000</color>
+
+
+
+
+    <color name="a494949">#494949</color>
+    <color name="a846954">#846954</color>
+    <color name="a687213">#687213</color>
+    <color name="a4e93aa">#4e93aa</color>
+    <color name="a868686">#868686</color>
+    <color name="a4d4d4d">#4d4d4d</color>
+    <color name="black">#000000</color>
+    <color name="home_top_click_text">#F8D00C</color>
+    <color name="theme_info_like_comm">#969696</color>
+    <color name="commtent_reply_bg">#e7e5e0</color>
+    <color name="float_transparent">#00000000</color>
+    <color name="ce_bg">#44ffffff</color>
+
+    <color name="line2">#D0CACA</color>
+    <color name="blue_home_tab">#00AAE5</color>
+    <color name="two_level">#999999</color>
+
+</resources>

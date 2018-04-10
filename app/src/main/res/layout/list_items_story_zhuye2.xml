@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_list_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:background="@drawable/list_item_pressed_select"
+    android:orientation="vertical"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/transparent"
+        android:orientation="vertical"
+        android:paddingBottom="5dp"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp">
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <de.hdodenhof.circleimageview.CircleImageView
+                android:id="@+id/cv_header"
+                android:layout_width="24dp"
+                android:layout_height="24dp"
+                android:layout_centerVertical="true"
+                android:background="@drawable/circle_heard"
+                android:padding="1dp"
+                android:src="@drawable/flash" />
+
+            <TextView
+                android:id="@+id/tv_username"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="5dp"
+                android:layout_toRightOf="@+id/cv_header"
+                android:text="大南瓜先生"
+                android:textColor="#fc6a50"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/tv_time"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:drawablePadding="5dp"
+                android:text="14min"
+                android:textColor="#bcbcbc"
+                android:textSize="12sp" />
+        </RelativeLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:text="至于先生"
+                android:textColor="@color/colorBlack"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/tv_title"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="70dp"
+                android:layout_marginTop="4dp"
+                android:maxLines="3"
+                android:text="春天的风带不去昨日的爱恋,春天的风带不去昨日的爱恋,春天的风带不去昨日的爱恋,春天的风带不去昨日的爱恋,春天的风带不去昨日的爱恋,春天的风带不去昨日的爱恋"
+                android:textSize="13sp" />
+
+            <ImageView
+                android:id="@+id/iv_image"
+                android:layout_width="60dp"
+                android:layout_height="42dp"
+                android:layout_alignBottom="@+id/tv_description"
+                android:layout_alignParentRight="true"
+                android:layout_marginTop="20dp"
+                android:scaleType="centerCrop" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_favorite"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="3dp"
+                android:layout_marginTop="10dp"
+                android:drawablePadding="6dp"
+                android:text="至于先生"
+                android:textColor="@color/text_color_name"
+                android:textSize="10sp" />
+
+            <TextView
+                android:id="@+id/tv_favorite_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="3dp"
+                android:layout_toRightOf="@+id/tv_favorite"
+
+                android:text="等23人"
+                android:textColor="@color/text_color_num"
+                android:textSize="10sp" />
+
+            <TextView
+                android:id="@+id/tv_pinglun_num"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginTop="10dp"
+                android:drawablePadding="4dp"
+                android:text="100"
+                android:textColor="#bcbcbc"
+                android:textSize="10sp" />
+        </RelativeLayout>
+    </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/rl_header"
+            android:layout_width="70dp"
+            android:layout_height="70dp">
+
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

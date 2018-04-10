@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          xmlns:tools="http://schemas.android.com/tools"
+          package="cc.mystory.android">
+
+    <uses-permission android:name="cc.mystory.android.permission.JPUSH_MESSAGE"/>
+
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.RECEIVE_USER_PRESENT"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+
+    <!-- Optional for location -->
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/> <!-- 用于开启 debug 版本的应用在6.0 系统上 层叠窗口权限 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+
+    <!-- Required -->
+    <permission
+        android:name="cc.mystory.android.permission.JPUSH_MESSAGE"
+        android:protectionLevel="signature"/>
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_logo"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:allowBackup,android:icon">
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+
+        </activity>
+
+        <activity
+            android:name=".LoadingActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+
+        <activity
+            android:name=".moudle.ui.main.ObjectListActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize"
+            />
+
+
+        <activity
+            android:name=".moudle.ui.login.LoginActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".moudle.ui.main.StoryInfoActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".GuideActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".moudle.ui.main.OtherUserActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name="cn.finalteam.rxgalleryfinal.ui.activity.MediaActivity"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"/>
+        <activity
+            android:name="com.yalantis.ucrop.UCropActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme"/>
+
+
+        <receiver
+            android:name=".moudle.receiver.InfoReceiver"
+            android:enabled="true">
+            <intent-filter>
+                <action android:name="cn.jpush.android.intent.REGISTRATION"/>
+                <action android:name="cn.jpush.android.intent.MESSAGE_RECEIVED"/>
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_RECEIVED"/>
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_OPENED"/>
+                <action android:name="cn.jpush.android.intent.NOTIFICATION_CLICK_ACTION"/>
+                <action android:name="cn.jpush.android.intent.CONNECTION"/>
+
+                <category android:name="cc.mystory.android"/>
+            </intent-filter>
+        </receiver>
+        <activity
+            android:name="me.nereo.multi_image_selector.MultiImageSelectorActivity"
+            android:configChanges="orientation|screenSize"/>
+
+        <!--
+                <activity android:name="com.xmg.richeditor_android.EditBackActivity"
+                          android:screenOrientation="portrait"
+                          android:windowSoftInputMode="stateHidden|adjustResize"
+                    >
+
+                </activity>
+
+                &lt;!&ndash;多选图片的activity。&ndash;&gt;
+
+                <activity
+                    android:name="com.xmg.richeditor_android.SearchActivity"
+                    android:screenOrientation="portrait"
+                    android:windowSoftInputMode="stateVisible|adjustResize">-->
+
+        <!--</activity>-->
+        <!--<activity-alias
+            android:name=".wxapi.WXEntryActivity"
+            android:exported="true"
+            android:targetActivity="me.shaohui.shareutil._ShareActivity"
+            />-->
+
+        <activity
+            android:name=".moudle.ui.user.UserObjectActivity"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="adjustResize"
+            />
+        <activity android:name=".moudle.ui.user.UserEditActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".moudle.ui.main.WebActivity"            android:screenOrientation="portrait"
+            />
+        <activity android:name=".moudle.ui.main.YaoQingWebActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".moudle.ui.main.CommendActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".moudle.ui.main.CommendEditActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".moudle.ui.MainActivity" />
+        <activity android:name=".moudle.ui.main.WenZhangInfoActivity" />
+        <activity android:name=".moudle.ui.main.CaiPiaoInfoActivity" />
+        <activity android:name=".moudle.ui.main.JiQiaoInfoActivity" />
+
+
+    </application>
+
+
+</manifest>

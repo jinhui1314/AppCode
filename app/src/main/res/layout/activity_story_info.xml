@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_bitmap"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <com.mylhyl.crlayout.SwipeRefreshWebView
+
+        android:id="@+id/wb_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true"
+        android:visibility="gone">
+
+    </com.mylhyl.crlayout.SwipeRefreshWebView>
+
+    <WebView
+        android:id="@+id/wb_view1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        android:fitsSystemWindows="true">
+
+    </WebView>
+
+
+    <RelativeLayout
+        android:id="@+id/rl_back"
+        android:background="@color/red"
+        android:layout_width="match_parent"
+        android:layout_height="45dp">
+
+        <ImageView
+            android:id="@+id/iv_back"
+            android:layout_width="40dp"
+            android:layout_height="match_parent"
+            android:padding="7dp"
+            android:layout_marginLeft="10dp"
+            android:src="@drawable/icon_back" />
+    </RelativeLayout>
+
+</RelativeLayout>

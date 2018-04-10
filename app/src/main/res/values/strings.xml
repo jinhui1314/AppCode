@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">幸运28</string>
+
+    <string name="get_code">获取验证码</string>
+
+    <string name="text_error">网络错误,点击重试</string>
+    <string name="loading_more">更多加载中……</string>
+    <string name="no_more">已经没有咯.....</string>
+    <string name="text_empty">暂无数据</string>
+
+    <string name="net_error">服务器开小差儿了，请稍候再试吧~</string>
+
+
+    <string name="edit_clickedit">点击正文以编辑</string>
+
+    <string-array name="ppt_delete">
+        <item>删除</item>
+    </string-array>
+
+    <string-array name="ppt_delete_edit">
+        <item>编辑</item>
+        <item>删除</item>
+    </string-array>
+</resources>
