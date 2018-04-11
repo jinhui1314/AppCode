@@ -19,7 +19,7 @@
             android:text="彩票资讯"
             android:textColor="@color/colorPrimary" />
 
-        <cc.mystory.android.util.view.NoScrollViewPager
+        <com.mycode.caipiao.util.view.NoScrollViewPager
             android:id="@+id/viewpager"
             android:layout_width="fill_parent"
             android:layout_height="0dip"

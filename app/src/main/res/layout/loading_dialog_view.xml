@@ -9,7 +9,7 @@
     android:padding="20dp"
     android:orientation="vertical">
 
-    <cc.mystory.android.util.view.LVCircularRing
+    <com.mycode.caipiao.util.view.LVCircularRing
         android:id="@+id/lv_circularring"
         android:layout_width="50dp"
         android:layout_height="50dp"/>

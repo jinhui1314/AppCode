@@ -88,7 +88,7 @@
                 android:layout_marginRight="70dp"
                 android:layout_marginTop="4dp"
                 android:maxLines="3"
-                android:text="春天的风带不去昨日的爱恋,春天的风带不去昨日的爱恋,春天的风带不去昨日的爱恋,春天的风带不去昨日的爱恋,春天的风带不去昨日的爱恋,春天的风带不去昨日的爱恋"
+                android:text="更多精彩内容请点击观看。"
                 android:textSize="13sp" />
 
             <ImageView
