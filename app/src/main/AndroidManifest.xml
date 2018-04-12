@@ -6,7 +6,7 @@
     android:versionCode="1"
     android:versionName="1.10">
 
-    <uses-sdk android:minSdkVersion="9" />
+    <uses-sdk android:minSdkVersion="15" />
     <uses-feature android:glEsVersion="0x00020000" />
 
 
@@ -191,16 +191,17 @@
             android:value="0f04431a67b3175f36cd635d" /> <!--  </>值来自开发者平台取得的AppKey-->
 
 
-        <activity
+        <!--<activity
             android:name=".LoadingActivity"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme">
-            <intent-filter>
+
+        </activity>-->
+
+        <!-- <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-
+            </intent-filter>-->
         <activity
             android:name=".moudle.ui.main.StoryInfoActivity"
             android:screenOrientation="portrait" />
@@ -208,10 +209,18 @@
             android:name=".GuideActivity"
             android:screenOrientation="portrait" />
 
-        <activity android:name=".moudle.ui.MainActivity" />
-        <activity android:name=".moudle.ui.main.WenZhangInfoActivity" />
-        <activity android:name=".moudle.ui.main.CaiPiaoInfoActivity" />
-        <activity android:name=".moudle.ui.main.JiQiaoInfoActivity" />
+        <activity
+            android:name=".moudle.ui.MainActivity"
+            android:theme="@style/AppTheme"></activity>
+        <activity
+            android:name=".moudle.ui.main.WenZhangInfoActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".moudle.ui.main.CaiPiaoInfoActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".moudle.ui.main.JiQiaoInfoActivity"
+            android:theme="@style/AppTheme" />
 
 
     </application>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/zxing.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/2/zxing_b024ab39d26d86ee08c5124444471e5bfd47d198/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7310f809206dfcd2320a2c81aa3ecf56cbb19795">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_e2789c186a4e5ee817b7e19018aea0cb747ab5c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edianzu/Desktop/code/AppCode/leopardkit/build/intermediates/bundles/default/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f55a2a865082f0084fdd988eef91a8fd0dce966">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_2e6d2c0163362b06e647ac26ed9a63154659fda3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/bugly_agent.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e937876112764c452852fe6d51a04bee9760940">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/2/bugly_agent_43637d20a71f687c1c0e73488ff42bc8cee477d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/jpush-android-2.1.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dcd721ab0a3880a408290d4d56be34ea113abc1c">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-android-2.1.8_9fe34854480fc1c082a6472959d47980d235a3b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/bugly_crash_release.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eab358f1fefcd688edf63e5aae5459cb60ace8f1">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/2/bugly_crash_release_17c81ace5ea5257fc71719d27c54e59126c822fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_48d42e889370db22f94f820f08028cc57b17586d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/android-async-http-1.4.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.8_d0da840909c792c208a141a40a363ba5f89b6f4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/android-mastersdk-1.16.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="22a2ecf7b11e0a773e31c7d5393129063e11c00c">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-mastersdk-1.16_1ce5cd5f758d95772713d5ff7f7c79807e4175f4/classes.dex" />
+    </item>
+
+</items>

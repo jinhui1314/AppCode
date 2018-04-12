@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/androidTest/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
