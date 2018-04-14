@@ -211,7 +211,11 @@
 
         <activity
             android:name=".moudle.ui.MainActivity"
-            android:theme="@style/AppTheme"></activity>
+            android:theme="@style/AppTheme"
+            android:screenOrientation="portrait"
+            >
+
+        </activity>
         <activity
             android:name=".moudle.ui.main.WenZhangInfoActivity"
             android:theme="@style/AppTheme" />
