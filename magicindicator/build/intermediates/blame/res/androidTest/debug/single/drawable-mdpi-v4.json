@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
-        "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
-    },
-    {
         "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/drawable-mdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
         "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/androidTest/debug/drawable-mdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",

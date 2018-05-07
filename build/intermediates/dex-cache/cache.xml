@@ -2,85 +2,504 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/zxing.jar"
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/ad0b49b31a36c65091293d205975566e/jars/classes.jar"
         jumboMode="true"
+        min-sdk-version="15"
         optimize="true"
-        revision="25.0.0"
-        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
-        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/2/zxing_b024ab39d26d86ee08c5124444471e5bfd47d198/classes.dex" />
+        revision="26.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/32.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/bundles/default/classes.jar"
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
         jumboMode="true"
+        min-sdk-version="15"
         optimize="true"
-        revision="25.0.0"
-        sha1="7310f809206dfcd2320a2c81aa3ecf56cbb19795">
-        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_e2789c186a4e5ee817b7e19018aea0cb747ab5c6/classes.dex" />
+        revision="26.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/48.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/edianzu/Desktop/code/AppCode/leopardkit/build/intermediates/bundles/default/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2f55a2a865082f0084fdd988eef91a8fd0dce966">
-        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/4/classes_2e6d2c0163362b06e647ac26ed9a63154659fda3/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/bugly_agent.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6e937876112764c452852fe6d51a04bee9760940">
-        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/2/bugly_agent_43637d20a71f687c1c0e73488ff42bc8cee477d9/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/jpush-android-2.1.8.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="dcd721ab0a3880a408290d4d56be34ea113abc1c">
-        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-android-2.1.8_9fe34854480fc1c082a6472959d47980d235a3b8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="/Users/edianzu/Desktop/code/AppCode/app/libs/bugly_crash_release.jar"
         jumboMode="true"
+        min-sdk-version="15"
         optimize="true"
-        revision="25.0.0"
+        revision="26.0.2"
         sha1="eab358f1fefcd688edf63e5aae5459cb60ace8f1">
-        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/2/bugly_crash_release_17c81ace5ea5257fc71719d27c54e59126c822fe/classes.dex" />
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/4.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/nineoldandroids-2.4.0.jar"
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
         jumboMode="true"
+        min-sdk-version="15"
         optimize="true"
-        revision="25.0.0"
-        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
-        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/2/nineoldandroids-2.4.0_48d42e889370db22f94f820f08028cc57b17586d/classes.dex" />
+        revision="26.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/18.jar" />
     </item>
     <item
-        is-multidex="true"
-        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/android-async-http-1.4.8.jar"
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/b9b78ff7fb526a909dc8fafcc26ab665/jars/classes.jar"
         jumboMode="true"
+        min-sdk-version="15"
         optimize="true"
-        revision="25.0.0"
-        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
-        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.8_d0da840909c792c208a141a40a363ba5f89b6f4c/classes.dex" />
+        revision="26.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/30.jar" />
     </item>
     <item
-        is-multidex="true"
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.2/ccde00f7ccc77af5a6d5752e2cb21f6d8998289f/okhttp-3.4.2.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/41.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-24.2.1.aar/c7378721fc444888396a2f32d2b09c5f/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/logger-1.15.aar/b7c5ec66c5da2789119e52e5b64e98b2/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2a156b99fc7cc034308f942906b09d32754a4470">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/modules-2/files-2.1/de.greenrobot/greendao/2.1.0/9414c1d4578673dac83a23119009624fd695726d/greendao-2.1.0.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9414c1d4578673dac83a23119009624fd695726d">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/43.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/edianzu/Desktop/code/AppCode/app/libs/android-mastersdk-1.16.jar"
         jumboMode="true"
+        min-sdk-version="15"
         optimize="true"
-        revision="25.0.0"
+        revision="26.0.2"
         sha1="22a2ecf7b11e0a773e31c7d5393129063e11c00c">
-        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-mastersdk-1.16_1ce5cd5f758d95772713d5ff7f7c79807e4175f4/classes.dex" />
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.4.2/d99260c62d97beae99ed1f779a35a9bf48c094a6/logging-interceptor-3.4.2.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d99260c62d97beae99ed1f779a35a9bf48c094a6">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/android-async-http-1.4.8.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/support-v4-24.2.1.aar/61697530ed486beb719abea48035a163/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/2dbf94c38ea59550d74d8d4701e0392a/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/88c364aca289eaaad2db23fce6ee2810/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d3f8ab57967a9149262ad36a46477fc2515f6ac8">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/45.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/Desktop/code/AppCode/leopardkit/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2be358fc146520d2b1078bf262fe9da2044cb55e">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/design-24.2.0.aar/43f7d4b09218a1762fa859acc59c33e2/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/circleimageview-2.1.0.aar/5cc5c56a1f22838182fed7d751c3cadf/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/appintro-4.0.0.aar/d93252cc3c6f1df96fc3ceb5f8e682d4/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95b97c30c8331619a9cc560ba9c3adb806e00ead">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/rxandroid-1.1.0.aar/b5d120d8eb670f822cedd714ea2b92cd/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/library-1.1.7.aar/88212392bd8791554026e9881ec1de97/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1478a113f04bf0b679037b4f6bd88bd1837b96a3">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-24.2.1.aar/91ec7fc215405631cd11641998e2e0de/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/commons-0.9.0.2.aar/ae7f1db0f733eaba0749b683166ab934/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8040f9d05681dcadce06606dc127fe1c1a9212a">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/91a44abe656b757b71ec07b4e756709a/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2d12dfbe8d51c7995dfe2c583cea3393781f2d46">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/support-media-compat-24.2.1.aar/ad0b49b31a36c65091293d205975566e/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/commonrefreshlayout-2.4.aar/7726053740b657f71894b0d4a2966b2e/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5b87d1bc4bf65d64a4a069cb26ff2315e496c05a">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/easyrecyclerview-4.4.0.aar/e358dd9e2e0621696a55216e4066035b/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1ca52ac1de743467368a975dc66d54ef9d6b8100">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.0-beta4/739e00dea1f0ac04fdb9b6160d667e23cc50a791/retrofit-2.0.0-beta4.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.3/b842f960942503cf1abbcc8c173a7f2c19d43726/jsoup-1.10.3.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b842f960942503cf1abbcc8c173a7f2c19d43726">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava/2.0.0-beta4/bd49baf667542c7d06f71e598bdee7fe57272013/adapter-rxjava-2.0.0-beta4.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd49baf667542c7d06f71e598bdee7fe57272013">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/38.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/0c415d6a35cd0918e7d3a4fb745c8b04/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/d836fe9886ca69f17e1449e0378da970/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/slimadapter-2.1.2.aar/92652dbb45502e75491651acd8a5aae5/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3fec6302d98475f03df75f40dce0927ba63fc5b0">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.0-beta4/de5935a367ba5e343e9df786ac8fc0c7d52b5f0c/converter-gson-2.0.0-beta4.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="de5935a367ba5e343e9df786ac8fc0c7d52b5f0c">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/bugly_agent.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6e937876112764c452852fe6d51a04bee9760940">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/rxlifecycle-0.6.1.aar/3d953c0333952bdd4ce86bbbce6ece2f/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3a98a50c56978d02c0651d12f5a26c3e7c31c397">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/42.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/rxlifecycle-components-0.6.1.aar/c4c24aaeaabc7620edef8a509b15a162/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5c90d2e1f0959b6e1f312b9f53049a342f0e82df">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/support-fragment-24.2.1.aar/b9b78ff7fb526a909dc8fafcc26ab665/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.5/686c608d1805b6d4d425ec4459e88164ffc85870/gson-2.5.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/jpush-android-2.1.8.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dcd721ab0a3880a408290d4d56be34ea113abc1c">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/rxbinding-0.4.0.aar/917de3c102c243e363216b4575a0faf1/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/support-core-utils-24.2.1.aar/0c415d6a35cd0918e7d3a4fb745c8b04/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-24.2.1.aar/02cd4d85e176c6418b7f44470812e042/jars/classes.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.4/3cc424c6eda381bf4aee40dc3ccdecc27b2106aa/rxjava-1.1.4.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3cc424c6eda381bf4aee40dc3ccdecc27b2106aa">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/edianzu/Desktop/code/AppCode/app/libs/zxing.jar"
+        jumboMode="true"
+        min-sdk-version="15"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="/Users/edianzu/Desktop/code/AppCode/app/build/intermediates/transforms/preDex/release/7.jar" />
     </item>
 
 </items>

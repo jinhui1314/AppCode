@@ -35,28 +35,28 @@
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_alignParentBottom="true"
-            android:background="@color/white"
-            android:paddingBottom="5dip">
+            android:background="@color/white">
 
             <RadioGroup
                 android:id="@+id/radioGroup"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:layout_marginTop="7dp"
+                android:paddingTop="5dp"
                 android:orientation="horizontal">
 
                 <RadioButton
                     android:id="@+id/rb_More"
                     android:layout_width="0dip"
-                    android:layout_height="wrap_content"
+                    android:layout_height="match_parent"
                     android:layout_weight="1"
                     android:background="@android:color/transparent"
                     android:button="@null"
                     android:checked="true"
-                    android:drawablePadding="4dip"
+                    android:drawableTop="@drawable/home_tab_more_selected"
+
                     android:gravity="center"
-                    android:paddingBottom="10dp"
-                    android:paddingTop="10dp"
+                    android:paddingBottom="1dp"
+                    android:paddingTop="1dp"
                     android:text="彩票资讯"
                     android:textColor="@drawable/home_tab_text_selected"
                     android:textSize="15sp" />
@@ -69,10 +69,11 @@
                     android:background="@android:color/transparent"
                     android:button="@null"
                     android:checked="false"
-                    android:drawablePadding="4dip"
                     android:gravity="center"
-                    android:paddingBottom="10dp"
-                    android:paddingTop="10dp"
+                    android:paddingBottom="1dp"
+                    android:drawableTop="@drawable/home_tab_more_selected"
+
+                    android:paddingTop="1dp"
                     android:text="实战技巧"
                     android:textColor="@drawable/home_tab_text_selected"
                     android:textSize="15sp"/>
@@ -82,13 +83,14 @@
                     android:id="@+id/rb_study"
                     android:layout_width="0dip"
                     android:layout_height="wrap_content"
+                    android:drawableTop="@drawable/home_tab_more_selected"
+
                     android:layout_weight="1"
                     android:background="@android:color/transparent"
                     android:button="@null"
-                    android:drawablePadding="4dip"
                     android:gravity="center"
-                    android:paddingBottom="10dp"
-                    android:paddingTop="10dp"
+                    android:paddingBottom="1dp"
+                    android:paddingTop="1dp"
                     android:text="彩票开奖"
                     android:textColor="@drawable/home_tab_text_selected"
                     android:textSize="15sp" />
@@ -98,12 +100,13 @@
                     android:layout_width="0dip"
                     android:layout_height="match_parent"
                     android:layout_weight="1"
+                    android:drawableTop="@drawable/home_tab_more_selected"
+
                     android:background="@android:color/transparent"
                     android:button="@null"
-                    android:drawablePadding="4dip"
                     android:gravity="center"
-                    android:paddingBottom="10dp"
-                    android:paddingTop="10dp"
+                    android:paddingBottom="1dp"
+                    android:paddingTop="1dp"
                     android:text="乐透资讯"
                     android:textColor="@drawable/home_tab_text_selected"
                     android:textSize="15sp" />

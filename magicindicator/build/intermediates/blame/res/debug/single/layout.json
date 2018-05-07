@@ -4,20 +4,20 @@
         "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/layout/abc_action_bar_up_container.xml"
-    },
-    {
         "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/debug/layout/pager_navigator_layout_no_scroll.xml",
         "source": "/Users/edianzu/Desktop/code/AppCode/magicindicator/src/main/res/layout/pager_navigator_layout_no_scroll.xml"
+    },
+    {
+        "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/layout/abc_action_menu_item_layout.xml"
     },
     {
         "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",

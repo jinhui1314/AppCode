@@ -34,21 +34,6 @@
         android:name="com.mycode.caipiao.permission.JPUSH_MESSAGE"
         android:protectionLevel="signature" />
 
-
-    <!-- <application
-         android:name=".App"
-         android:allowBackup="true"
-         android:icon="@mipmap/icon_logo"
-         android:label="@string/app_name"
-         android:largeHeap="true"
-         android:supportsRtl="true"
-         android:theme="@style/AppTheme"
-         tools:replace="android:allowBackup,android:icon">
-
-
-     </application>-->
-
-
     <application
         android:name=".App"
         android:icon="@drawable/icon"
@@ -68,13 +53,26 @@
             android:label="@string/app_name"
             android:screenOrientation="portrait"
             android:theme="@android:style/Theme.NoTitleBar">
+
+        </activity>
+
+        <activity
+            android:name=".moudle.LoadingActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme">
+
+        </activity>
+
+        <activity
+            android:name=".LoadingActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/SplashTheme">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
-
         </activity>
+
 
         <activity
             android:name="org.cocos2dx.lua.AppActivity"
@@ -190,41 +188,34 @@
             android:name="JPUSH_APPKEY"
             android:value="0f04431a67b3175f36cd635d" /> <!--  </>值来自开发者平台取得的AppKey-->
 
-
-        <!--<activity
-            android:name=".LoadingActivity"
-            android:screenOrientation="portrait"
-            android:theme="@style/AppTheme">
-
-        </activity>-->
-
-        <!-- <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>-->
         <activity
             android:name=".moudle.ui.main.StoryInfoActivity"
             android:screenOrientation="portrait" />
-        <activity
-            android:name=".GuideActivity"
-            android:screenOrientation="portrait" />
+
 
         <activity
             android:name=".moudle.ui.MainActivity"
-            android:theme="@style/AppTheme"
             android:screenOrientation="portrait"
-            >
+            android:theme="@style/AppTheme">
+
 
         </activity>
         <activity
             android:name=".moudle.ui.main.WenZhangInfoActivity"
+            android:screenOrientation="portrait"
+
             android:theme="@style/AppTheme" />
         <activity
             android:name=".moudle.ui.main.CaiPiaoInfoActivity"
+            android:screenOrientation="portrait"
+
             android:theme="@style/AppTheme" />
         <activity
             android:name=".moudle.ui.main.JiQiaoInfoActivity"
+            android:screenOrientation="portrait"
+
             android:theme="@style/AppTheme" />
+        <activity android:name=".TestActivity" />
 
 
     </application>

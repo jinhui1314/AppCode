@@ -12,12 +12,12 @@
         "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/drawable-xxxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
-        "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png",
         "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/drawable-xxxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/edianzu/.android/build-cache/82ea5ada00bb3eb05fa4416dac867619faa92117/output/res/drawable-xxxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/edianzu/Desktop/code/AppCode/magicindicator/build/intermediates/res/merged/androidTest/debug/drawable-xxxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
